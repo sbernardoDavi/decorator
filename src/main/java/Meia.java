@@ -9,6 +9,6 @@ public class Meia extends PedidoDecorator{
     }
 
     public String getTipoItem() {
-        return "Soquetes";
+        return "Meia";
     }
 }

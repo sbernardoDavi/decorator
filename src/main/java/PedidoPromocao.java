@@ -15,6 +15,6 @@ public class PedidoPromocao implements Pedido{
     }
 
     public String getItem(){
-        return "valor maior que 200R$";
+        return "Promoção";
     }
 }

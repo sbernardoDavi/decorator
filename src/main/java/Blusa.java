@@ -9,7 +9,7 @@ public class Blusa extends PedidoDecorator{
     }
 
     public String getTipoItem(){
-        return "Roupa";
+        return "Blusa";
     }
 
 }

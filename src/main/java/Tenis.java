@@ -9,6 +9,6 @@ public class Tenis extends PedidoDecorator{
     }
 
     public String getTipoItem(){
-        return "calçado";
+        return "Tenis";
     }
 }
